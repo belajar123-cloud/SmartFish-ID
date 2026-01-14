@@ -1,0 +1,20 @@
+[
+  {
+    "time": "2026-01-13 22:15:10",
+    "nama": "Ani",
+    "peran": "Konsumen",
+    "rating": 5,
+    "komentar": "Aplikasinya membantu sekali untuk memilih ikan segar",
+    "last_prediction": "segar",
+    "last_confidence": 0.93
+  },
+  {
+    "time": "2026-01-13 22:20:42",
+    "nama": "Budi",
+    "peran": "Pedagang",
+    "rating": 4,
+    "komentar": "Bagus, tapi perlu ditambah jenis ikan",
+    "last_prediction": "kurang_segar",
+    "last_confidence": 0.81
+  }
+]
